@@ -153,15 +153,16 @@ Isso permite automatizar tarefas complexas, como:
 
 #### 🧠 Interação com a IA
 
-![Resposta](images/resposta-exemplo.png)
+![Resposta](images/exemplo_resposta.png)
 
 #### 🔄 Refinamento de prompts
 
-![Refinamento](images/refinamento-prompt.png)
+![Refinamento](images/refinamento_prompt.png)
+![Refinamento](images/refinamento_prompt_2.png)
 
-#### 📖 Resumo gerado
+#### 📖 Mapa mental gerado
 
-![Resumo](images/resumo.png)
+![Resumo](images/mapa_mental.png)
 
 #### 💡 Insight relevante
 
