@@ -149,24 +149,24 @@ Isso permite automatizar tarefas complexas, como:
 
 #### 📚 Fontes utilizadas
 
-![Fontes](images/fontes.png)
+![Fontes](fontes.png)
 
 #### 🧠 Interação com a IA
 
-![Resposta](images/exemplo_resposta.png)
+![Resposta](exemplo_resposta.png)
 
 #### 🔄 Refinamento de prompts
 
-![Refinamento](images/refinamento_prompt.png)
-![Refinamento](images/refinamento_prompt_2.png)
+![Refinamento](refinamento_prompt.png)
+![Refinamento](refinamento_prompt_2.png)
 
 #### 📖 Mapa mental gerado
 
-![Resumo](images/mapa_mental.png)
+![Mapa Mental](mapa_mental.png)
 
 #### 💡 Insight relevante
 
-![Insight](images/insight.png)
+![Insight](insight.png)
 
 ✨ ───────────── ✨
 
